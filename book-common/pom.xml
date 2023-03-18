@@ -18,7 +18,7 @@
 
 
     <dependencies>
-        <!-- 引入SpringBoot 依赖-->
+        <!-- 引入SpringBoot的依赖-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
