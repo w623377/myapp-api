@@ -15,7 +15,7 @@
     <!--api依赖于service,service依赖于mapper，mapper依赖于model,model依赖于common-->
     <dependencies>
 
-        <!-- 分布式（微服务）配置中心 -->
+        <!-- 分布式（微服务）的配置中心  -->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
