@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: myapp-nacos
+  profiles:
+    active: prod
+  cloud:
+    nacos:
+      config:
+        server-addr: 172.19.4.29:8848   # nacos 所在的地址
+        file-extension: yaml
